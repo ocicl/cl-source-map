@@ -1,0 +1,9 @@
+* cl-source-map
+
+Porting mozilla/source-map to Common Lisp
+
+|---------+------------------------------------------------|
+| source  | git:https://github.com/cxxxr/cl-source-map.git |
+| commit  | 1193fcc                                        |
+| systems | cl-source-map                                  |
+|---------+------------------------------------------------|
